@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bash-baba-portfilio
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn Portfilio_DurjoyAcharjya.wsgi:application"
