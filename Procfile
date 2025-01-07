@@ -1,1 +1,1 @@
-web: gunicorn Portfolio_DurjoyAcharjya.wsgi --log-file -
+web: gunicorn Portfolio_DurjoyAcharjya.wsgi:application
