@@ -1,1 +1,1 @@
-web: gunicorn Portfolio_DurjoyAcharjya.wsgi:application
+web: gunicorn Portfilio_DurjoyAcharjya.wsgi:application
