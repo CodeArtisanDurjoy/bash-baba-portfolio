@@ -8,3 +8,4 @@ Personal portfolio website made with Django framework in the backend, and with C
 - Live previews
 - Fullscreen mode
 
+link https://bash-baba-portfolio.onrender.com/
